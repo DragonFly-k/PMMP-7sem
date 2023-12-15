@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="m" size="1.000000 0.628906" />
+    <ImageTarget name="mila" size="1.000000 0.630631" />
+    <ImageTarget name="kariclub" size="1.000000 0.629356" />
+  </Tracking>
+</QCARConfig>
